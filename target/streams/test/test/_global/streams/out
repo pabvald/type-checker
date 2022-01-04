@@ -1,0 +1,43 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(de.uni_saarland.cs.se.BasicTypeTests, org.scalatest.tools.Framework$$anon$1@63772f8a, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mBasicTypeTests:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mThe Theta of a VType[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should contain a disjunction of its range[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mThe join of two VTypes[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should contain the joined VTypes[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mThe equality formula[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should have the expected form[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mThe expression 'Const(True)'[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should have the type 'BoolTy'[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mThe expression 'Const(False)'[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should have the type 'BoolTy'[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mThe expression 'Const(Num(42))'[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should have the type 'NumTy'[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mThe variable in 'x'[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- must be in the context[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mThe variable in 'x'[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be in the context[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mThe expression '5 < 4'[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should have the type 'BoolTy'[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mThe first argument to 'Smaller'[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- must have the type 'NumTy'[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mThe second argument to 'Smaller'[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- must have the type 'NumTy'[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mThe condition in 'If'[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- must have the type 'BoolTy'[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mThe 'then' and 'else' expressions in 'If'[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- must have the same type[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mThe type of 'If'[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be the join of the 'then' and 'else' types[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mThe 'Id' in 'Let'[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- must not be in the context already[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mThe VType of the 'Let' expression[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be adequate[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mThe expression 'Choice(A || B, True, 5)'[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should have a VType with two entries[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 812 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 17[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 17, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	de.uni_saarland.cs.se.BasicTypeTests[0m
